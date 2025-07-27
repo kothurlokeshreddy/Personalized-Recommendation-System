@@ -4,4 +4,4 @@ joblib
 requests
 matplotlib
 seaborn
-scikit-surprise
+surprise
