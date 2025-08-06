@@ -6,4 +6,3 @@ matplotlib
 dotenv
 seaborn
 https://github.com/kothurlokeshreddy/Personalized-Recommendation-System/releases/download/v1.0.0/surprise-0.1-py2.py3-none-any.whl
-scikit-surprise
