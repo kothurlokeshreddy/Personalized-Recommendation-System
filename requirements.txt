@@ -5,4 +5,4 @@ requests
 matplotlib
 dotenv
 seaborn
-https://anaconda.org/conda-forge/scikit-surprise/1.1.4/download/linux-64/scikit-surprise-1.1.4-py39hc362ce9_1.conda
+git+https://github.com/NicolasHug/Surprise.git
