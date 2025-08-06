@@ -3,6 +3,5 @@ pandas
 joblib
 requests
 matplotlib
-dotenv
 seaborn
-git+https://github.com/NicolasHug/Surprise.git
+python-dotenv
