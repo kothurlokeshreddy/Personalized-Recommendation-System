@@ -6,3 +6,4 @@ matplotlib
 dotenv
 seaborn
 https://github.com/kothurlokeshreddy/Personalized-Recommendation-System/releases/tag/v1.0.0
+scikit-surprise
