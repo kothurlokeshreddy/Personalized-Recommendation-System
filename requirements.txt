@@ -5,4 +5,4 @@ requests
 matplotlib
 seaborn
 python-dotenv
-surprise
+scikit-surprise
