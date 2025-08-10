@@ -1,7 +1,9 @@
 streamlit
 pandas
-joblib
-requests
+numpy
+scikit-surprise
 matplotlib
 seaborn
+requests
 python-dotenv
+joblib
