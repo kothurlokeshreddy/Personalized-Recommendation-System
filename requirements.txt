@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+https://github.com/NicolasHug/Surprise/releases/download/v1.1.3/scikit_surprise-1.1.3-cp310-cp310-manylinux1_x86_64.whl
 scikit-surprise
 matplotlib
 seaborn
