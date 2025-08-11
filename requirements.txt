@@ -1,14 +1,14 @@
 pip==25.2
 setuptools>=68.0.0
 wheel
-streamlit
-pandas
 numpy<2.0
 cython
 cmake
-scikit-surprise==1.1.3
+streamlit
+pandas
 matplotlib
 seaborn
 requests
 python-dotenv
 joblib
+scikit-surprise==1.1.3
