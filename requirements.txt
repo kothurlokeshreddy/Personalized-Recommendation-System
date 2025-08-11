@@ -1,0 +1,14 @@
+pip==25.2
+setuptools>=68.0.0
+wheel
+numpy<2.0
+cython
+cmake
+streamlit
+pandas
+matplotlib
+seaborn
+requests
+python-dotenv
+joblib
+./scikit_surprise-1.1.4-cp39-cp39-win_amd64.whl
