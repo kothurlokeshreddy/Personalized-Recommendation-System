@@ -1,7 +1,11 @@
+pip>=24.0
+setuptools>=68.0.0
+wheel
 streamlit
 pandas
 numpy<2.0
-scikit-surprise==1.1.3
+cython
+scikit-surprise==1.1.3 --no-build-isolation
 cmake
 matplotlib
 seaborn
