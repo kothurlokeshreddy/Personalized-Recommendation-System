@@ -11,4 +11,3 @@ seaborn
 requests
 python-dotenv
 joblib
-scikit-surprise==1.1.4 --only-binary :all:
