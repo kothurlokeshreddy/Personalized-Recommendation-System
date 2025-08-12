@@ -7,3 +7,4 @@ joblib==1.2.0
 plotly==5.9.0
 dotenv
 matplotlib
+seaborn
