@@ -1,2 +1,6 @@
-[python]
-version = "3.10"
+[server]
+fileWatcherType = "poll"
+
+[watcher]
+# Paths to ignore
+ignore = ["venv", "env", ".git", ".ipynb_checkpoints", "data", "models"]
