@@ -8,11 +8,10 @@ import re
 
 load_dotenv()
 
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+TMDB_API_KEY = st.secrets["TMDB_API_KEY"]
 
 def fetch_trending_movies(count=6):
     try:
-        api_key = os.getenv("TMDB_API_KEY")
         url = f"https://api.themoviedb.org/3/trending/movie/week?api_key={TMDB_API_KEY}"
         response = requests.get(url)
         if response.status_code == 200:
